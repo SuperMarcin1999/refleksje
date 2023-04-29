@@ -1,0 +1,15 @@
+C:\Users\knapi\source\repos\Refleksje\bin\Debug\net6.0\Refleksje.exe
+C:\Users\knapi\source\repos\Refleksje\bin\Debug\net6.0\Refleksje.deps.json
+C:\Users\knapi\source\repos\Refleksje\bin\Debug\net6.0\Refleksje.runtimeconfig.json
+C:\Users\knapi\source\repos\Refleksje\bin\Debug\net6.0\Refleksje.dll
+C:\Users\knapi\source\repos\Refleksje\bin\Debug\net6.0\Refleksje.pdb
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.csproj.AssemblyReference.cache
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.AssemblyInfoInputs.cache
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.AssemblyInfo.cs
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.csproj.CoreCompileInputs.cache
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.dll
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\refint\Refleksje.dll
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.pdb
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\Refleksje.genruntimeconfig.cache
+C:\Users\knapi\source\repos\Refleksje\obj\Debug\net6.0\ref\Refleksje.dll
